@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/hsay40/dsa/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/hsay40/dsa/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hsay40/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hsay40/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
@@ -27,4 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/hsay40/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hsay40/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hsay40/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/hsay40/dsa/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/hsay40/dsa/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/hsay40/dsa/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/hsay40/dsa/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
